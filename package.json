@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/4ok/basic-auth-middleware/issues"
   },
-  "homepage": "https://github.com/4ok/basic-auth-middleware"
+  "homepage": "https://github.com/4ok/basic-auth-middleware",
+  "dependencies": {
+    "basic-auth": "^1.0.1"
+  }
 }
